@@ -2874,7 +2874,7 @@ SWIG_Python_MustGetPtr(PyObject *obj, swig_type_info *ty, int SWIGUNUSEDPARM(arg
   }
   return result;
 }
-#include </usr/local/lib/python2.7/dist-packages/numpy/core/include/numpy/arrayobject.h>
+
 #ifdef SWIGPYTHON_BUILTIN
 SWIGRUNTIME int
 SWIG_Python_NonDynamicSetAttr(PyObject *obj, PyObject *name, PyObject *value) {
